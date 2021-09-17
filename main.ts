@@ -6,6 +6,6 @@ basic.forever(function () {
             # . . . #
             . # # # .
             . . . . .
-            `).showImage(index - 5)
+            `).showImage(index - 5, 200)
     }
 })
